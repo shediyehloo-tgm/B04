@@ -1,5 +1,8 @@
 Ein Textfile f�r B04
+<<<<<<< HEAD
 Bearbeitung von REPO1:
 Hallo 3CHIT
+=======
 Bearbeitung von REPO2:
 Hallo Welt
+>>>>>>> 68577d9bca7ab49506770431d3fa5a53ce027041
